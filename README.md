@@ -186,4 +186,3 @@ ros2 topic pub --once /qr_code_data std_msgs/msg/String "data: 'ID:50;POS:10.0,5
 
 ------------------------------------------------------------------------
 
-
